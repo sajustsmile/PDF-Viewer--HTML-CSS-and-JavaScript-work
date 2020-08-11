@@ -1,1 +1,1 @@
-# PDF-Viewer--HTML-CSS-and-JavaScript-work
+# PDF-Viewer--JavaScript-CSS-and-HTML-work
